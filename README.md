@@ -346,3 +346,4 @@ Alle verwendeten Konfigurationen und Workflows wurden verstanden, angepasst und 
 # 📜 Lizenz
 
 Dieses Projekt wurde im Rahmen des Moduls WEB2 / DEP an der GIBB Bern erstellt.
+Reza
